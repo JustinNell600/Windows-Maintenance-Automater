@@ -22,11 +22,11 @@ It’s also a way for me to improve my scripting skills while creating something
 Encountered a Problem? Contact Me! <br/>
 If you want to debug yourself though here's some codes that you'll see that can help you
 
-This is WMA's Error Code System a.k.a **_E_**
+This is WMA's Error Code System a.k.a **_E_** <br/>
 **_E_** has various code that detect when certain things went right or wrong, as of E1.0 it only show's the outcome of each command, but as time goes on **_E_** will become a powerfull tool to self debug and fix the entire WMA system
 <ul>
 <li>
-### S01
+ **S01**<br/>
 This is the `chkdsk` success code. Getting this code means chkdsk completed and either found errors that could be resolved or found zero errors
 </li>
   
