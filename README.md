@@ -46,5 +46,5 @@ This is the `DISM /Online /Cleanup-Image /Checkhealth` success code. Getting thi
 ### E03
 This is the `DISM /Online /Cleanup-Image /Checkhealth` error code. Getting this code means DISM Checkhealth completed and found sthat the component store is repairable. WMA will procceed a `DISM /Online /Cleanup-Image /Restorehealth` to attempt to fix these corruptions
 
-## _E_ Version History
+## _E_ - Version History
 E1.0.0 - First Official Release of the **_E_** system
